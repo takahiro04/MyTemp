@@ -1,0 +1,253 @@
+We noticed that you haven't used your Microsoft 365 developer subscription for development activity - Microsoft 365 developer trial
+Like the tittle said. Basically I have been using E5 Dev Program for almost 2 years now. It automatically renews every 90 days and send me a confirmation email after that.
+But today I received this:
+
+Which I have received this for the first time. And it says that I'm not using it for development activity.
+
+How do I resolve this one or anyone facing the same ? Thank for any advice guys
+
+r/Office365 - We noticed that you haven't used your Microsoft 365 developer subscription for development activity - Microsoft 365 developer trial
+Đọc thêm
+
+Thích
+20
+
+Không thích
+
+31
+Đến bình luận
+
+
+Chia sẻ
+Chia sẻ
+Tham gia cuộc trò chuyện
+Sắp xếp theo:
+
+Hay nhất
+
+Tìm kiếm bình luận
+Mở rộng phần tìm kiếm bình luận
+Phần bình luận
+Avatar của Drehmini
+Drehmini
+•
+2 năm trước
+To keep your subscription active, you can:
+
+Create a team in Microsoft Teams
+
+Publish a SharePoint site
+
+Create and publish an app in Power Apps
+
+Create a workflow in Power Automate
+
+Create a report using Power BI
+
+
+
+Thích
+13
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+randomname97531
+•
+2 năm trước
+Hello. Do I have to do one of these things every time they renew the subscription or if I just do it once and let it be, will they still renew? Thank you.
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+
+2 tin nhắn trả lời khác
+Avatar của BackgroundAdmirable1
+BackgroundAdmirable1
+•
+2 năm trước
+Can you use templates for that or do you have to create them from scratch?
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+
+4 tin nhắn trả lời khác
+FunkyDoktor
+•
+2 năm trước
+I sent them an email and they renewed again.
+
+
+
+Thích
+2
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+CranberryDazzling589
+Người đăng ban đầu
+•
+2 năm trước
+Can you please show me how to send the email as well. I got the error when trying to access the dashboard
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+
+2 tin nhắn trả lời khác
+
+9 tin nhắn trả lời khác
+Dedward5
+•
+2 năm trước
+Yep, I had one of those recently (first time)
+
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+CranberryDazzling589
+Người đăng ban đầu
+•
+2 năm trước
+So what did you do ?
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+
+1 tin nhắn trả lời khác
+OddWriter7199
+•
+2 năm trước
+Ya you need to do something in there at least every 90 days to keep it active.
+
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+CranberryDazzling589
+Người đăng ban đầu
+•
+2 năm trước
+Yeah the point is I used it flawlessly for the past 2 years. This is my first time seeing this
+
+
+Thích
+0
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+
+4 tin nhắn trả lời khác
+paxxx84
+•
+2 năm trước
+Is it possible to upgrade from a E5 developer sub. to a Business subscription?
+
+
+Thích
+1
+
+Không thích
+
+Trả lời
+reply
+
+Phần thưởng
+
+Chia sẻ
+Chia sẻ
+
+
+1 tin nhắn trả lời khác
